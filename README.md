@@ -5,7 +5,7 @@ Users enter a date, and have the site return NASA’s Astronomy Picture of the D
 
 Link to project: https://cosmic-cal-cvan-creations.netlify.app/
 
-Project Screenshot: ![]()
+Project Screenshot: ![](https://github.com/CodingWCal/simple-NASA-API/blob/main/cosmic-cal-screenshot.png)
 
 ---
 
